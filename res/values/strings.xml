@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tebak Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nasib">NasibActivity</string>
+    <string name="title_activity_goyang">TebakGambar</string>
+    <string name="title_activity_jangkau">TebakGambar</string>
+    <string name="title_activity_kurasa">TebakGambar</string>
+    <string name="title_activity_pasar">TebakGambar</string>
+    <string name="title_activity_roti">TebakGambar</string>
+    <string name="title_activity_sarung">TebakGambar</string>
+    <string name="title_activity_secangkir">TebakGambar</string>
+    <string name="title_activity_setengah">TebakGambar</string>
+    <string name="title_activity_sate">TebakGambar</string>
+    <string name="title_activity_balik">TebakGambar</string>
+
+</resources>
